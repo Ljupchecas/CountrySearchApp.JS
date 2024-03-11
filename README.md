@@ -1,1 +1,3 @@
 # CountrySearchApp.JS
+
+The Country Search App is a beginner-level JavaScript application designed to filter countries based on whether English is spoken and whether the Euro is used as currency. Developed during the early stages of learning JavaScript, this app aims to provide a simple interface for users to explore countries meeting these criteria. Users can input their preferences, and the app will display a list of countries that match the specified criteria. While basic in functionality, the Country Search App serves as a practical exercise for beginners to understand basic JavaScript concepts such as data filtering and user input handling.
